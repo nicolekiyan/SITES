@@ -1,0 +1,94 @@
+*{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin: 0px;
+padding: 0px;
+border: 0px;
+}
+
+.cabecalho{
+    background-color: #1D0F6E;
+    display: flex;
+    flex-direction: row;
+    height: 48px;
+
+}
+.numero{
+    color: #FFFFFF;
+    font-size: 20px;
+    width: 700px;
+    margin: 13px 0px 0px 700px;
+    
+}
+.email{
+    color: #FFFFFF;
+    margin: 13px 150px;
+    font-size: 20px;
+}
+
+.aviao{
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url(img/aviao.png);
+    height: 780px;
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+  
+}
+
+.textoSeuSonho{
+    font-size: 93px;
+    letter-spacing: 1.2px;
+    color: #FFFFFF;
+}
+
+.confira{
+    color: #1D0F6E;
+    font-size: 80px;
+    padding: 80px;
+    text-align: center;
+}
+
+.container{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 500px;
+    width: 340px;
+}
+.destino{
+    border-radius: 15px;
+    text-align: center;
+    margin: 2px 50px;
+    border: 5px solid black;
+    height: 600px;
+    
+}
+
+.pais, .preco{
+    font-size: 33px;
+}
+.naoPerca{
+    color: #1D0F6E;
+    font-size: 100px;
+    text-align: center;
+    margin: 150px 50px 200px 50px;
+  
+
+}
+.tour{
+    color: #FFFFFF; 
+    font-size: 50px;  
+}
+footer{
+    display: flex;
+    background-color: #1D0F6E;
+    height:250px;
+    justify-content: center;
+    align-items: center;
+}
+span{
+    font-size: 20px;
+}
