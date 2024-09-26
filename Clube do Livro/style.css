@@ -1,0 +1,25 @@
+
+    *{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+    *{margin: 0px;
+ border:0px;
+ padding: 0px;}
+ 
+
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    background-color: #648769;
+    height: 565px;   
+}
+img{
+    height: 400px;
+    margin-top: 80px;
+    margin-left: 65px;
+}
+.clube{
+    font-size: 110px;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin-left: 110px;
+    margin-top: 170px;
+}
