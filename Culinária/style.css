@@ -55,6 +55,7 @@ h2{
 .pTexto{
     font-size: 41px;
     text-align: justify;
+    width: 1050px;
 }
 .caixas{
     display: flex;
