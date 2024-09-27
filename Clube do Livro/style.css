@@ -14,7 +14,8 @@
 img{
     height: 400px;
     margin-top: 80px;
-    margin-left: 65px;
+    margin-left: 58px;
+    padding-bottom: 40px;
 }
 .clube{
     font-size: 110px;
@@ -22,4 +23,59 @@ img{
     font-weight: bold;
     margin-left: 110px;
     margin-top: 170px;
+}
+.texto{
+    color: #2A5B31;
+    font-size: 70px;
+    font-weight: bold;
+    padding-left: 110px;
+    padding-top: 50px;
+   
+}
+.caixas{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 100px;
+    margin: 13px;
+}
+.caixinha{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    padding: 0px 50px 70px 50px;
+    align-items: left;
+    justify-content: flex-start;
+   
+    
+}
+.imagens{
+    height: 120px;
+    width: 160px;
+    justify-content: flex-start;
+}
+.info{
+    font-size: 40px;
+    padding: 5px;
+}
+.titulo{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+footer{
+    background-color: #648769;
+    height: 560px;
+    
+}
+.rodape{
+    color: #FFFFFF;
+    font-size: 110px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 150px;
+}
+.imagens{
+    height: 160px;
+    width: 170px;
 }
