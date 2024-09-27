@@ -1,0 +1,136 @@
+*{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+.cabecalho{
+    background-color: #ECA457;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 45px;
+    text-align: right;
+    padding: 20px;
+    font-weight:lighter;
+}
+
+.imgLogo{
+    height: 215px;
+    padding-left: 87px;
+    padding-right: 770px;
+}
+.imgLogo2{
+    height: 215px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.imagemFundo{
+    background-image: url(img/fundo.png);
+    height: 670px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+}
+
+
+h2{
+    color: #ECA457;
+    font-size: 110px;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 30px;
+    text-justify: center;
+    font-weight: lighter;
+}
+.pTexto{
+    text-align: justify;
+    font-size: 41px;
+    width: 1100px;
+}
+.caixas{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+
+.pReceita{
+    color: #000000;
+    font-size: 40px;
+    font-weight: 300;
+}
+span{
+    color: #AFA7A7;
+    font-size: 35px;
+}
+.receita{
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    margin: 40px;
+}
+h4{
+    font-size: 50px;
+    font-weight: 100;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    background-color: #ECA457;
+    margin-top: 210px;
+}
+
+h3{
+    font-size: 50px;
+    font-weight: 100;
+    width: 1000px;
+}
+.blog{
+    color: #AFA7A7;
+    font-size: 35px;
+    font-weight: 10px;
+    width: 1000px;
+}
+.saudavel{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.chef{
+    height: 200px;
+    padding-left: 370px;
+    margin-right: 20px;
+}
+
+h5{
+    color: #ECA457;
+    font-size: 110px;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 50px;
+    text-justify: center;
+    font-weight: lighter;
+}
+.textoCS{
+    display: flex;
+    justify-content: center;
+}
+
+.imgReceitas{
+    height: 150px;
+    padding: 10px;
+}
