@@ -53,9 +53,8 @@ h2{
     font-weight: lighter;
 }
 .pTexto{
-    text-align: justify;
     font-size: 41px;
-    width: 1100px;
+    text-align: justify;
 }
 .caixas{
     display: flex;
@@ -97,22 +96,23 @@ footer{
 h3{
     font-size: 50px;
     font-weight: 100;
-    width: 1000px;
+   
 }
 .blog{
     color: #AFA7A7;
     font-size: 35px;
     font-weight: 10px;
-    width: 1000px;
+    
 }
 .saudavel{
 display: flex;
 justify-content: center;
 align-items: center;
+
 }
 .chef{
     height: 200px;
-    padding-left: 370px;
+    
     margin-right: 20px;
 }
 
